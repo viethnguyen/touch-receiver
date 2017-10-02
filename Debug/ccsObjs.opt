@@ -1,0 +1,1 @@
+"./maybeworking2.obj" "./tm4c123ge6pm_startup_ccs.obj" "../tm4c123ge6pm.cmd" -llibc.a -l"D:/Program Files/ti/peripheralDrivers/driverlib/gcc/libdriver.a" 
